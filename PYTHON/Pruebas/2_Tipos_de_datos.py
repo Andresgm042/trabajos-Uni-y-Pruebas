@@ -1,0 +1,6 @@
+Palabra = input("Escribe una palabra: ")  #exigimos cadena de caracter (str)
+Entero = int(input("Escribe un numero: ")) #exigimos numero entero (int)
+Decimal = float(input("Escribe un decimal: ")) #exigimos numero con decimal (float)
+print(Palabra, type(Palabra))
+print(Entero, type(Entero))
+print(Decimal, type(Decimal))
