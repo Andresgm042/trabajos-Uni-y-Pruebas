@@ -25,9 +25,7 @@ def main():
 
     if Eleccion in ["1", "2", "3", "4"]:  # Verifica si la opción es válida
         numero1 = float(input("Escribe el primer número: "))
-        print(numero1)
         numero2 = float(input("Escribe el segundo número: "))
-        print(numero2)
 
         if Eleccion == "1":
             print("Resultado: ", suma(numero1, numero2))
