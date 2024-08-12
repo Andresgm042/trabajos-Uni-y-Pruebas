@@ -1,4 +1,4 @@
-while True:  #Ciclo infinito, como el while (1) en C.
+while True:  #bucle infinito, como el while (1) en C.
 
     Numero = int(input("Inserte numero: "))
 
