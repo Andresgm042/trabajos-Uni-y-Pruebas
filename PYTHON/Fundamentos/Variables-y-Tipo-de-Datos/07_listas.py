@@ -4,6 +4,7 @@ lista_mixta = [1, "dato str", 3.99]
 
 print(lista_num[2]) #imprime tercer dato de la lista
 print("lista str sin cambio:", lista_str)
+
 lista_str[0] = "TU" #reemplaza el primer dato de la lista 
 print("lista con cambio en el primer dato:", lista_str)
 
