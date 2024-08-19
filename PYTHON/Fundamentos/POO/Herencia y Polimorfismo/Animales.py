@@ -1,8 +1,10 @@
+from abc import ABC, abstractmethod
 class animales:
     def __init__(self, animal):
         self.animal = animal 
-    
-    def Animal(ABC):
+
+    @abstractmethod
+    def sonido(self):
         pass
 
 class Perro(animales):
