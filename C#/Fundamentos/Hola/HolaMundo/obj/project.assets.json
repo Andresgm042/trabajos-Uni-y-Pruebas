@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\trabajos_pruebas\\trabajos_pruebas\\C#\\Fundamentos\\Hola\\HolaMundo\\HolaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Desktop\\trabajos_pruebas\\trabajos-Uni-y-Pruebas\\C#\\Fundamentos\\Hola\\HolaMundo\\HolaMundo.csproj",
       "projectName": "HolaMundo",
-      "projectPath": "C:\\Users\\andre\\Desktop\\trabajos_pruebas\\trabajos_pruebas\\C#\\Fundamentos\\Hola\\HolaMundo\\HolaMundo.csproj",
+      "projectPath": "C:\\Users\\andre\\Desktop\\trabajos_pruebas\\trabajos-Uni-y-Pruebas\\C#\\Fundamentos\\Hola\\HolaMundo\\HolaMundo.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\trabajos_pruebas\\trabajos_pruebas\\C#\\Fundamentos\\Hola\\HolaMundo\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Desktop\\trabajos_pruebas\\trabajos-Uni-y-Pruebas\\C#\\Fundamentos\\Hola\\HolaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
