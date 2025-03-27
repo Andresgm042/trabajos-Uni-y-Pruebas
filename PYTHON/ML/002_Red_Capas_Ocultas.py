@@ -1,6 +1,6 @@
 import tensorflow as tf #libreria para machine learning
 import numpy as np #libreria para analisis de datos y calculos
-import matplotlib.pyplot as plt #libreria para graficar
+import matplotlib.pyplot as plt #libreria para graficar 
 
 celsius = np.array([-40, -10, 0, 8, 15, 22, 38], dtype=float) #array de numpy con los valores de celsius
 fahrenheit = np.array([-40, 14, 32, 46, 59, 72, 100], dtype=float)#lo mismo de arriba pero de fahrenheit
